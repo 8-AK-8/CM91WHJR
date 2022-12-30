@@ -1,0 +1,20 @@
+body{
+  background-color: #8BD8BD;
+  font-family: fantasy;
+}
+
+#playerdiv{
+  background-color: #8BD8BD;
+  border: 10px #234665 solid;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#div1{
+  display: inline;
+}
+
+#btnsend{
+  color: #8BD8BD;
+  background-color: #234665 ;
+}
